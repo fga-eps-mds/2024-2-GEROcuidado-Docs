@@ -1,5 +1,5 @@
 # GEROcuidado - Documentação
- Repositório para armazenar a documentação do projeto GEROCuidado no semestre de 2024.2.
+ Repositório para armazenar a documentação do projeto GEROCuidado no semestre de 2024.2
 
 # Repositórios
   - Front: https://github.com/fga-eps-mds/2024-2-GEROcuidado-Front
