@@ -1,0 +1,8 @@
+site_name: GERO Cuidado Docs
+theme:
+name: material
+nav:
+    - Home: index.md
+    - Sobre: sobre.md
+    
+
