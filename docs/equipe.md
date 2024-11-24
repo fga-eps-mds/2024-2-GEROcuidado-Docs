@@ -1,33 +1,3 @@
-# GEROcuidado - Documentação
- Repositório para armazenar a documentação do projeto GEROCuidado no semestre de 2024.2
-
-# Repositórios
-  - Front: https://github.com/fga-eps-mds/2024-2-GEROcuidado-Front
-  - API Saúde: https://github.com/fga-eps-mds/2024-2-GEROcuidado-APISaude
-  - API Usuário: https://github.com/fga-eps-mds/2024-2-GEROcuidado-APIUsuario
-  - API Fórum: https://github.com/fga-eps-mds/2024-2-GEROcuidado-APIForum
-
-## Rodando Localmente o Git Pages
-
-### Requisitos
-- python
-- pip
-- mkdocs
-
-### Como rodar
-Instale o MKDocs com o comando:
-
-```terminal
-$ pip install -r requirements.txt
-```
-Após a instalação execute o comando:
-
-```terminal
-$ mkdocs serve
-```
-A documentação local poderá ser acessada por: http://127.0.0.1:8000/ ou http://localhost:8000/
-
-
 # Equipe
 <table>
   <tr>
