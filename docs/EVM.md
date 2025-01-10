@@ -15,8 +15,7 @@ A cada iteração(sprint) será possível coletar as seguintes métricas:
 - Custo Real(AC): Representa o custo real incorrido para realizar o trabalho concluído em uma iteração. Isso inclui todas as despesas envolvidas na entrega da iteração.
 
 ## Análise
-
-<iframe frameborder="0" style="width:100%;height:650px;" src="https://docs.google.com/spreadsheets/d/10Ap4AQ5AZafOHoESpIxyyUh-zWrLHnAWbolXINoZZak/edit?gid=0#gid=0"></iframe>
+https://docs.google.com/spreadsheets/d/10Ap4AQ5AZafOHoESpIxyyUh-zWrLHnAWbolXINoZZak/edit?gid=0#gid=0
 
 
 | Versão | Data       | Descrição | Autores |
