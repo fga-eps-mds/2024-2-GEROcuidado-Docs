@@ -46,9 +46,9 @@ A documentação local poderá ser acessada por: http://127.0.0.1:8000/ ou http:
   
   <tr>
     <td>EPS</td>
-    <td>180121847</td>
-    <td>Helder Lourenço de Abreu marques</td>
-    <td> <a href="https://github.com/F1reFinger">F1reFinger</a></td>
+    <td>190142421</td>
+    <td>Artur Vinicius Dias Nunes</td>
+    <td> <a href="https://github.com/ArturVinicius">ArturVinicius</a></td>
   </tr>
   
   <tr>
