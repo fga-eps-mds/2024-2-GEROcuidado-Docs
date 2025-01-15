@@ -22,14 +22,14 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **Épicos
 #### Épico 1: Gerenciar cuidador
 
 | ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|-------------|---------| ------------ |
+|-----|---------------------|-------------|-
 | US01   | Eu, como cuidador, quero recuperar uma senha que esqueci. | 5 |
 | US02   | Eu, como cuidador, quero criar um novo evento na agenda do idoso, para organizar suas atividade. | 5 |
 
 #### Épico 2: Gerenciar idoso
 
 | ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|-------------|---------| ------------ |
+|-----|---------------------|-------------|-
 | US03   | Eu, como cuidador, quero alterar as informações do meu perfil para manter meus dados atualizados. | 3 |
 | BUG03   | Adicionar idoso na conta. | 8 |
 
@@ -39,42 +39,42 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **Épicos
 #### Épico 3: Gerenciar rotina do idoso
 
 | ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|-------------|---------| ------------ |
+|-----|---------------------|-------------|-
 | EH01   | Eventos não se repetem. | ? |
 
 #### Épico 4: Monitorar rotina do idoso
 
 | ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|-------------|---------|------------ |
+|-----|---------------------|-------------|
 
 #### Épico 5: Notificar tarefas do idoso
 
 | ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|-------------|---------|------------ |
+|-----|---------------------|-------------|
 | BUG01   | Notificar tarefas do idoso. | ? |
 
 #### Épico 6: Interagir com posts
 
 | ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|-------------|---------|------------ |
+|-----|---------------------|-------------|
 | US04   | Eu, como cuidador, quero denunciar um comentário ofensivo, e por o motivo da denuncia. | 8 |
 | US06   | Adicionar comentário em post. | ? |
 
 #### Épico 7: Gerenciar posts
 
 | ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|-------------|---------|------------ |
+|-----|---------------------|-------------|
 | BUG02   | Criar posts no fórum. | 13 |
 
 #### Épico 8: Moderar posts
 
 | ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|-------------|---------|------------ |
+|-----|---------------------|-------------|
 
 #### Épico 9: Gerenciar relatório
 
 | ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|-------------|---------|------------ |
+|-----|---------------------|-------------|
 | US05   | Gerenciar relatório das métricas de saúde. | ? |
 
 ### 2.3 Product Backlog até a Release N
@@ -82,7 +82,7 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **Épicos
 #### Épico 10: Ensinar utilização
 
 | ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|-------------|---------|------------ |
+|-----|---------------------|-------------|
 
 ## Somatório de Story Points: 48
 | Data | Versão | Descrição | Responsavel |
