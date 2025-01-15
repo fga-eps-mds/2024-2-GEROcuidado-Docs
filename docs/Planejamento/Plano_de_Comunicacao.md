@@ -8,7 +8,11 @@ Este documento tem como objetivo proporcionar uma visão clara e detalhada das e
 
 ## 2. Mapa de Calor
 
-![Mapa de Calor]()
+Em ordem do grupo saber os melhores horários de disponibilidade para encontros do grupo, um mapa de calor foi feito. Com isso, foi possível definir quando as principais reuniões do grupo aconteceriam. O mapa de calor pode ser visto pela imagem abaixo:
+
+![Mapa de Calor](../assets/Mapa_de_Calor%20.jpg)
+
+O Quadro está organizado por tonalidades de verde até o vermelho, sendo que quanto mais verde maior a disponibilidade do grupo sendo um total de 8 membros e quanto mais vermelho menor a disponibilidade dos membros.
 
 ## 3. Comunicação Interna
 
@@ -32,7 +36,7 @@ A equipe está livre para realizar algumas reuniões a mais do que o previsto de
 
 ## 4. Comunicação Externa
 
-As reuniões com as POs () e o professor (Hilmer) estão, inicialmente, programadas para ocorrerem toda **Quarta-Feira 19h**, com duração esperada de 1h. Todos os membros de EPS e MDS são esperados na reunião.
+As reuniões com as POs (Maria Beatriz e Júlia) e o professor (Hilmer) estão, inicialmente, programadas para ocorrerem toda **Quarta-Feira 19h**, com duração esperada de 1h. Todos os membros de EPS e MDS são esperados na reunião.
 
 ## 5. Ferramentas de Comunicação
 
