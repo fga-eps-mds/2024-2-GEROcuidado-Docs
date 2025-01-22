@@ -36,46 +36,26 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **Épicos
 
 ### 2.2 Product Backlog até o MVP
 
-#### Épico 3: Gerenciar rotina do idoso
+#### Épico 2: Gerenciar idoso
 
 | ID  | História de Usuário | Story Points |
 |-----|---------------------|-------------|
 | EH01   | Eventos não se repetem. | ? |
+| BUG01   | Notificar tarefas do idoso. | 5 |
 
-#### Épico 4: Monitorar rotina do idoso
-
-| ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|
-
-#### Épico 5: Notificar tarefas do idoso
-
-| ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|
-| BUG01   | Notificar tarefas do idoso. | ? |
-
-#### Épico 6: Interagir com posts
+#### Épico 3: Gerenciar posts
 
 | ID  | História de Usuário | Story Points |
 |-----|---------------------|-------------|
 | US04   | Eu, como cuidador, quero denunciar um comentário ofensivo, e por o motivo da denuncia. | 8 |
-| US06   | Adicionar comentário em post. | ? |
-
-#### Épico 7: Gerenciar posts
-
-| ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|
+| US06   | Adicionar comentário em post. | 5 |
 | BUG02   | Criar posts no fórum. | 13 |
 
-#### Épico 8: Moderar posts
+#### Épico 4: Gerenciar relatório
 
 | ID  | História de Usuário | Story Points |
 |-----|---------------------|-------------|
-
-#### Épico 9: Gerenciar relatório
-
-| ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|
-| US05   | Gerenciar relatório das métricas de saúde. | ? |
+| US05   | Eu, Como usuário do sistema, quero gerar relatórios das métricas de saúde, para acompanhar e analisar minhas informações de forma clara e organizada, auxiliando no controle da saúde. | 8 |
 
 ### 2.3 Product Backlog até a Release N
 
@@ -84,7 +64,8 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **Épicos
 | ID  | História de Usuário | Story Points |
 |-----|---------------------|-------------|
 
-## Somatório de Story Points: 48
+## Somatório de Story Points: 60
 | Data | Versão | Descrição | Responsavel |
 | :-----: | :-------------: | :---------------: | :-: |
 | 15/01/2025 | 1.0 | Versão inicial Até o MVP | [Artur Vinícius Dias Nunes](https://github.com/ArturVinicius), [Vinícius Edwardo Pereira Oliveira](https://github.com/viniciused26) | 
+| 22/01/2025 | 2.0 | Refinando Épicos | [Artur Vinícius Dias Nunes](https://github.com/ArturVinicius), [Vinícius Edwardo Pereira Oliveira](https://github.com/viniciused26) | 
