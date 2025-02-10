@@ -51,10 +51,11 @@ Para estimar o gasto com pessoas, foi considerado o valor anual médio de R$ 19.
 
 Todos os cálculos realizados foram documentados na seguinte planilha: [Documento de Custo](https://docs.google.com/spreadsheets/d/1vnpkNYVvNRk-cqtEmlJu6zIWXNJggzo4PJKHNSsxsjE/edit?usp=sharing)
 
-Com isso, obtemos um custo total de **R$ 70.720,20** para o projeto.
+Com isso, obtemos um custo total de **R$ 75.692,93** para o projeto. Sendo esse valor divido por Release onde tivemos um total de 4 Releases, sendo 1 minor e 3 majors.
 
 ## 4. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 27/01/2025 | 1.0 | Versão inicial do documento| [Artur Vinícius Dias Nunes](https://github.com/ArturVinicius) |
+| 09/02/2025 | 1.1 | Atualizando o valor total do projeto | [Artur Vinícius Dias Nunes](https://github.com/ArturVinicius) |
