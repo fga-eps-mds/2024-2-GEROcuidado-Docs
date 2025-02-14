@@ -1,9 +1,34 @@
 site_name: GERO Cuidado Docs
-theme:
-  name: material
+
+repo_name: '2024.2-Gero-Cuidado-Docs'
+repo_url: 'https://github.com/fga-eps-mds/2024-2-GEROcuidado-Docs'
+
 nav:
   - Home: index.md
-  - Sobre: sobre.md
-  - Equipe: equipe.md
-  - Riscos: Gerenciamento-riscos.md
-  - Custos: custos.md
+  - Guia de Contribuição:
+    - Código de Conduta: Contribuição/Codigo_de_Conduta.md
+    - Políticas de Contribuição: Contribuição/Politica_Contribuicao.md
+  - Código Fonte:
+    - Arquitetura do projeto: Código/Diagrama_Arquitetura.md
+    # - Banco de Dados:
+  - Planejamento:
+    - Plano de Comunicação: Planejamento/Plano_de_Comunicacao.md
+    - Plano de Custos: Planejamento/custos.md
+    - Plano de Qualidade: Planejamento/Qualidade.md
+    - Plano de Riscos: Planejamento/Gerenciamento_riscos.md  
+    - Metodologias: Planejamento/Metodologia.md
+    - EVM: Planejamento/EVM.md
+  - Equipe: 
+    - Quadro de conhecimento: Planejamento/Quadro_Conhecimento.md  
+  - Produto:
+    - Lean Inception: Produto/Lean_Inception.md
+    - Backlog do produto: Produto/backlog.md
+    - Estrutura Analítica do Projeto (EAP): Produto/EAP.md
+
+theme:
+  name: material
+  language: 'pt'
+  logo: assets/unbtv-icon.ico
+  favicon: assets/unbtv-icon.ico
+  palette:
+    primary: blue green
