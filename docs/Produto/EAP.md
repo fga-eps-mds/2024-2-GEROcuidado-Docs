@@ -21,3 +21,4 @@ Segue o EAP do Projeto GeroCuidado.
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 26/01/2025 | 1.0 | Criação do Documento | [Artur Vinicius](https://github.com/ArturVinicius) |
+| 09/02/2025 | 1.0 | Atualizando imagem do EAP | [Artur Vinicius](https://github.com/ArturVinicius) |

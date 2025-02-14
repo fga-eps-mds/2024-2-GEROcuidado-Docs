@@ -21,7 +21,7 @@ A comunicação Interna descreve como a equipe vai organizar a comunicação ent
 A comunicação interna vai ser divida entre 3 principais tipos de reunião:
 
     1. Plannig: Reunião de planejamento das tarefas da Sprint;
-    2. Review + Retrospectiva: 
+    2. Review + Retrospectiva: Revisar o que foi feito durante a Sprint e ter discussões de como ela foi conduzida, e o que pode melhorar para aumentar a produtividade da equipe;
     3. Reunião de Acompanhamento: Reunião para acompanhar o desenvolvimento das tarefas da sprint;
 
 Dessa forma, os horários dessas reuniões foram decididos para acontecer de acordo com a tabela abaixo:
@@ -56,6 +56,7 @@ Ferramentas utilizadas para promover a comunicação interna e externa do time.
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 14/01/2025 | 1.0 | Versão inicial no documento | [Artur Vinicius](https://github.com/ArturVinicius) |
+| 09/02/2025 | 1.1 | Atualizando dados errados | [Artur Vinicius](https://github.com/ArturVinicius) |
 
 
 

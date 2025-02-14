@@ -40,8 +40,9 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **Épicos
 
 | ID  | História de Usuário | Story Points |
 |-----|---------------------|-------------|
-| EH01   | Eventos não se repetem. | ? |
 | BUG01   | Notificar tarefas do idoso. | 5 |
+| BUG04   | Tela OK em esqueci minha senha | 13 |
+| BUG06   | Eventos não se repetem. | 2 |
 
 #### Épico 3: Gerenciar posts
 
@@ -50,6 +51,9 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **Épicos
 | US04   | Eu, como cuidador, quero denunciar um comentário ofensivo, e por o motivo da denuncia. | 8 |
 | US06   | Adicionar comentário em post. | 5 |
 | BUG02   | Criar posts no fórum. | 13 |
+| BUG05 | Linkagem em fórum | 3 |
+
+### 2.3 Product Backlog até a Release N
 
 #### Épico 4: Gerenciar relatório
 
@@ -57,15 +61,9 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **Épicos
 |-----|---------------------|-------------|
 | US05   | Eu, Como usuário do sistema, quero gerar relatórios das métricas de saúde, para acompanhar e analisar minhas informações de forma clara e organizada, auxiliando no controle da saúde. | 8 |
 
-### 2.3 Product Backlog até a Release N
-
-#### Épico 10: Ensinar utilização
-
-| ID  | História de Usuário | Story Points |
-|-----|---------------------|-------------|
-
 ## Somatório de Story Points: 60
 | Data | Versão | Descrição | Responsavel |
 | :-----: | :-------------: | :---------------: | :-: |
 | 15/01/2025 | 1.0 | Versão inicial Até o MVP | [Artur Vinícius Dias Nunes](https://github.com/ArturVinicius), [Vinícius Edwardo Pereira Oliveira](https://github.com/viniciused26) | 
 | 22/01/2025 | 2.0 | Refinando Épicos | [Artur Vinícius Dias Nunes](https://github.com/ArturVinicius), [Vinícius Edwardo Pereira Oliveira](https://github.com/viniciused26) | 
+| 09/02/2025 | 2.1 | Organizando backlog e adicionando bugs | [Artur Vinícius Dias Nunes](https://github.com/ArturVinicius) | 
