@@ -6,7 +6,7 @@ repo_url: 'https://github.com/fga-eps-mds/2024-2-GEROcuidado-Docs'
 nav:
   - Home: index.md
   - Guia de Contribuição:
-    - Código de Conduta: Contribuição/Codigo_de_Conduta.md
+    - Código de Conduta: Contribuição/Codigo_Conduta.md
     - Políticas de Contribuição: Contribuição/Politica_Contribuicao.md
   - Código Fonte:
     - Arquitetura do projeto: Código/Diagrama_Arquitetura.md
@@ -28,7 +28,7 @@ nav:
 theme:
   name: material
   language: 'pt'
-  logo: assets/unbtv-icon.ico
-  favicon: assets/unbtv-icon.ico
+  logo: assets/gero.png
+  favicon: assets/gero.png
   palette:
     primary: blue green
